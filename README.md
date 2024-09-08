@@ -1,4 +1,4 @@
-# Choose o challenge
+# Choose your challenge
 
 ### Challenge: Integrating p5.js Sketches with React
 
